@@ -149,8 +149,8 @@ public:
      */
     virtual bool has_handler() const override;
 
-protected:
     socket_type& socket();
+protected:
 
 private:
 
